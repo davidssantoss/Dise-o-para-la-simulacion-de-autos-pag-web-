@@ -6,4 +6,4 @@ Diagrama de clases
 
 Diagrama de secuencia
 
-![Diagrama de secuencia](https://github.com/davidssantoss/Dise-o-para-la-simulacion-de-autos-pag-web-/blob/master/Diagrama%20de%20secuencia.jpg)
+![Diagrama de secuencia](https://github.com/davidssantoss/Dise-o-para-la-simulacion-de-autos-pag-web-/blob/master/Diagrama%20de%20secuencia.png)
